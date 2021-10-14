@@ -8,3 +8,6 @@ this includes:
 + really bad intents
 + a random argument parser I made
 + some gitignored venv
+
+todo:
+[ ] more intents
