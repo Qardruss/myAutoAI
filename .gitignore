@@ -1,0 +1,10 @@
+# created by virtualenv automatically
+Lib/
+Scripts/
+.vscode/
+.dist/
+__pycache__/
+checkpoint
+data.pickle
+model*
+pyvenv.cfg
