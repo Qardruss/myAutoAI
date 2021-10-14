@@ -10,4 +10,5 @@ this includes:
 + some gitignored venv
 
 todo:
-[] more intents
+- [] more intents
+- [X] made it
