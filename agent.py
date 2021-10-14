@@ -1,4 +1,4 @@
-import nltk
+import nltk # comment so git lets me push
 from nltk.stem.lancaster import LancasterStemmer
 stemmer = LancasterStemmer()
 
