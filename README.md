@@ -2,6 +2,8 @@
 
 A simple artificial intelligence chatbot using Tensorflow
 
+like a version of my chatbot but it matches with ai instead.
+
 this includes:
 + messy code
 + annoying gitignored models
